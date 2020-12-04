@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="time-showing-web:war exploded">
+    <output-path>$PROJECT_DIR$/sample/time-showing-web/out/artifacts</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="time-showing-web" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="time-showing-web/web/Web" />
+    </root>
+  </artifact>
+</component>

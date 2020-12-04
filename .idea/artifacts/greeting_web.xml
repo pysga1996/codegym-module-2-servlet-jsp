@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="greeting-web">
+    <output-path>$PROJECT_DIR$/sample/greeting-web/out/artifacts/</output-path>
+    <root id="archive" name="greeting-web.war">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="greeting-web" />
+          <element id="module-output" name="time-showing-web" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
