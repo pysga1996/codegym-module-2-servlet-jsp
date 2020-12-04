@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/practice/customer-list/customer-list.iml" filepath="$PROJECT_DIR$/practice/customer-list/customer-list.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample/greeting-web/greeting-web.iml" filepath="$PROJECT_DIR$/sample/greeting-web/greeting-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample/monetary-converter-jsp/monetary-converter-jsp.iml" filepath="$PROJECT_DIR$/sample/monetary-converter-jsp/monetary-converter-jsp.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample/monetary-converter-servlet/monetary-converter-servlet.iml" filepath="$PROJECT_DIR$/sample/monetary-converter-servlet/monetary-converter-servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/product-discount-calculator/product-discount-calculator.iml" filepath="$PROJECT_DIR$/practice/product-discount-calculator/product-discount-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/simple-calculator/simple-calculator.iml" filepath="$PROJECT_DIR$/practice/simple-calculator/simple-calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample/simple-dictionary-jsp/simple-dictionary-jsp.iml" filepath="$PROJECT_DIR$/sample/simple-dictionary-jsp/simple-dictionary-jsp.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample/simple-dictionary-servlet/simple-dictionary-servlet.iml" filepath="$PROJECT_DIR$/sample/simple-dictionary-servlet/simple-dictionary-servlet.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample/time-showing-web/time-showing-web.iml" filepath="$PROJECT_DIR$/sample/time-showing-web/time-showing-web.iml" />

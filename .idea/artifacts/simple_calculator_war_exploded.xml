@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="simple-calculator:war exploded">
+    <output-path>$PROJECT_DIR$/practice/simple-calculator/out/artifacts</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="simple-calculator" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="simple-calculator/web/Web" />
+    </root>
+  </artifact>
+</component>
