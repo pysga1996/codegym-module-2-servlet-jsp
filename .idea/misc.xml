@@ -2,7 +2,9 @@
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/practice/product-discount-calculator/out/artifacts/Product_Discount_Calculator_war_exploded/WEB-INF/web.xml" />
+    <file type="web" url="file://$PROJECT_DIR$/practice/product-manager/out/artifacts/Products_Manager_war_exploded/WEB-INF/web.xml" />
     <file type="web" url="file://$PROJECT_DIR$/practice/simple-calculator/out/artifacts/Calculator_war_exploded/WEB-INF/web.xml" />
+    <file type="web" url="file://$PROJECT_DIR$/sample/customer-manager/out/artifacts/Customers_Manager_war_exploded/WEB-INF/web.xml" />
     <file type="web" url="file://$PROJECT_DIR$/sample/monetary-converter-servlet/out/artifacts/Currency_Converter_war_exploded/WEB-INF/web.xml" />
     <file type="web" url="file://$PROJECT_DIR$/sample/simple-dictionary-servlet/out/artifacts/Simple_Dictionary_war_exploded/WEB-INF/web.xml" />
   </component>
